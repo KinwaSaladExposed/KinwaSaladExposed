@@ -1,2 +1,1 @@
--im currently learning OOP in C++ 
--i like writing algorithms
+i like writing algorithms
